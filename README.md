@@ -38,6 +38,7 @@ awakeFromNib 方法警告;
 [控制台杂乱Log屏蔽](#Log屏蔽)  
 [编译过慢](#编译过慢)  
 
+[SimulateIDFA，新一代iOS设备的广告追踪解决方案](http://www.cocoachina.com/industry/20161014/17761.html)
 
 ---
 ## <a id="Notification"></a>Notification
@@ -88,6 +89,8 @@ UserNotifications框架主要有以下文件:
 ##### 推荐文章
 [活久见的重构 - iOS 10 UserNotifications 框架解析](https://onevcat.com/2016/08/notification)  
 [iOS10全新推送功能的实现](http://blog.csdn.net/u012847940/article/details/51801078)  
+[iOS10推送必看UNNotificationServiceExtension](http://www.cocoachina.com/ios/20161017/17769.html)
+
 
 
 ##### 推送获取device token问题
@@ -331,6 +334,9 @@ A：因为iOS10更换了系统字体，所以会导致文字的大小跟iOS9及�
 注意：Xcode8内置了开启注释的功能，位置在这里.  
 
 ![](http://upload-images.jianshu.io/upload_images/707724-9ace6550ccedaa6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+快捷键设置:
+![](http://cc.cocimg.com/api/uploads/20161014/1476413611503192.png)
 
 
 ---
