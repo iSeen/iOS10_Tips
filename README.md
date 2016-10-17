@@ -22,12 +22,12 @@ UITextField 新增枚举(textContentType);
 UIScrollView 新增刷新(UIRefreshControl);     
 UIWebView 代理方法修改;  
 awakeFromNib 方法警告;  
-字体变化Frame需调整;  
+字体变大Frame需调整;  
 
 [隐私权限设置](#隐私权限设置) :调用相机/相册等需要设置权限   
 [自定义相机cameraViewTransform不能用](#自定义相机)  
 [App跳转应用的设置界面](#App跳转设置)   
-[系统版本号判断方法失效](http://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&mid=2655358043&idx=1&sn=a1433f4bed139ea18dccf625fde9fe3c&chksm=84e24173b395c8657776918340eb76b694b770bde044b64e6fd5c10301936a118fb8c33aadca&scene=1&srcid=0924CTuZrrHF6tXUBLnOMExq#rd) 
+[iOS 10 的适配问题: 系统版本号判断方法失效](http://www.jianshu.com/p/f8151d556930) : 使用[[[UIDevice currentDevice] systemVersion] floatValue] 即可.
 
 ###### Xcode 8:
 [证书管理](#证书管理): 可自动管理   
